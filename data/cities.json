@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "a24d",
+      "cityName": "Patna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-08T18:40:19.814Z",
+      "notes": "",
+      "position": {
+        "lat": "25.608557702210984",
+        "lng": "85.15571526747485"
+      }
+    },
+    {
+      "id": "578c",
+      "cityName": "Sonepur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-08T18:40:28.848Z",
+      "notes": "",
+      "position": {
+        "lat": "25.69289353811285",
+        "lng": "85.18043295053334"
+      }
+    },
+    {
+      "id": "11a1",
+      "cityName": "Hajipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-08T18:40:33.074Z",
+      "notes": "",
+      "position": {
+        "lat": "25.68299404999841",
+        "lng": "85.22094447209285"
+      }
+    },
+    {
+      "id": "d28e",
+      "cityName": "Bihar Sharif",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-08T19:26:23.663Z",
+      "notes": "",
+      "position": {
+        "lat": "25.19872829288669",
+        "lng": "85.53543090820314"
+      }
+    },
+    {
+      "id": "2f77",
+      "cityName": "Hasanpura",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-12T20:54:53.464Z",
+      "notes": "",
+      "position": {
+        "lat": "26.07605799618793",
+        "lng": "84.35972213745119"
+      }
+    },
+    {
+      "id": "b96c",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-13T06:52:58.423Z",
+      "notes": "meri maal ka collage",
+      "position": {
+        "lat": "28.680224626020735",
+        "lng": "77.22542233231744"
+      }
+    }
+  ]
+}
