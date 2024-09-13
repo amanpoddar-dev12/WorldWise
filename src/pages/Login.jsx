@@ -8,22 +8,24 @@ import { useAuth } from "../contexts/FakeAuthContext";
 export default function Login() {
   const [email, setEmail] = useState("aman@example.com");
   const [password, setPassword] = useState("aman1220");
-  const [login, isAuthenticated] = useAuth();
+  const { login, isAuthenticated } = useAuth(); // Fix: Destructure from object
   const navigate = useNavigate();
+
   function handleLogin(e) {
-    e.preventDefault();
+    e.preventDefault(); // Prevent form submission reload
     if (email && password) login(email, password);
   }
-  useEffect(
-    function () {
-      if (isAuthenticated) navigate("/app");
-    },
-    [isAuthenticated, navigate]
-  );
+
+  useEffect(() => {
+    if (isAuthenticated) navigate("/app", { replace: true });
+  }, [isAuthenticated, navigate]);
+
   return (
     <main className={styles.login}>
       <PageNav />
-      <form className={styles.form} onClick={handleLogin}>
+      <form className={styles.form} onSubmit={handleLogin}>
+        {" "}
+        {/* Fix: Use onSubmit */}
         <div className={styles.row}>
           <label htmlFor="email">Email address</label>
           <input
@@ -33,7 +35,6 @@ export default function Login() {
             value={email}
           />
         </div>
-
         <div className={styles.row}>
           <label htmlFor="password">Password</label>
           <input
@@ -43,7 +44,6 @@ export default function Login() {
             value={password}
           />
         </div>
-
         <div>
           <Button type={"primary"}>Login</Button>
         </div>
