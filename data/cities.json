@@ -1,42 +1,6 @@
 {
   "cities": [
     {
-      "id": "a24d",
-      "cityName": "Patna",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-09-08T18:40:19.814Z",
-      "notes": "",
-      "position": {
-        "lat": "25.608557702210984",
-        "lng": "85.15571526747485"
-      }
-    },
-    {
-      "id": "578c",
-      "cityName": "Sonepur",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-09-08T18:40:28.848Z",
-      "notes": "",
-      "position": {
-        "lat": "25.69289353811285",
-        "lng": "85.18043295053334"
-      }
-    },
-    {
-      "id": "11a1",
-      "cityName": "Hajipur",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-09-08T18:40:33.074Z",
-      "notes": "",
-      "position": {
-        "lat": "25.68299404999841",
-        "lng": "85.22094447209285"
-      }
-    },
-    {
       "id": "d28e",
       "cityName": "Bihar Sharif",
       "country": "India",
