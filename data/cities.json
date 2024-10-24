@@ -1,63 +1,87 @@
 {
   "cities": [
     {
-      "id": "d28e",
-      "cityName": "Bihar Sharif",
+      "id": "d633",
+      "cityName": "Patna",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2024-09-08T19:26:23.663Z",
+      "date": "2024-10-24T16:23:48.761Z",
       "notes": "",
       "position": {
-        "lat": "25.19872829288669",
-        "lng": "85.53543090820314"
+        "lat": "25.601409677320223",
+        "lng": "85.15417098999023"
       }
     },
     {
-      "id": "2f77",
-      "cityName": "Hasanpura",
+      "id": "b937",
+      "cityName": "Darbhanga",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2024-09-12T20:54:53.464Z",
+      "date": "2024-10-24T16:23:54.829Z",
       "notes": "",
       "position": {
-        "lat": "26.07605799618793",
-        "lng": "84.35972213745119"
+        "lat": "26.16483310993847",
+        "lng": "85.88012695312501"
       }
     },
     {
-      "id": "b96c",
-      "cityName": "Delhi",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-09-13T06:52:58.423Z",
-      "notes": "meri maal ka collage",
-      "position": {
-        "lat": "28.680224626020735",
-        "lng": "77.22542233231744"
-      }
-    },
-    {
-      "id": "a68d",
+      "id": "11dc",
       "cityName": "Chapra",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2024-09-15T19:01:59.771Z",
+      "date": "2024-10-24T16:25:24.147Z",
       "notes": "",
       "position": {
-        "lat": "25.74562871322747",
-        "lng": "84.90440368131385"
+        "lat": "25.782079943676834",
+        "lng": "84.74218368530275"
       }
     },
     {
-      "id": "d65d",
-      "cityName": "Phulpur",
+      "id": "15eb",
+      "cityName": "Ekma",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2024-09-15T19:14:09.504Z",
+      "date": "2024-10-24T16:25:39.780Z",
       "notes": "",
       "position": {
-        "lat": "26.056416926885802",
-        "lng": "82.73803700739519"
+        "lat": "25.96488448623718",
+        "lng": "84.53807830810548"
+      }
+    },
+    {
+      "id": "e76c",
+      "cityName": "Siwan",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-24T16:25:48.273Z",
+      "notes": "",
+      "position": {
+        "lat": "26.22099291919239",
+        "lng": "84.35543060302734"
+      }
+    },
+    {
+      "id": "3caf",
+      "cityName": "Mairwa",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-24T16:25:54.670Z",
+      "notes": "",
+      "position": {
+        "lat": "26.236365418182867",
+        "lng": "84.14917945861818"
+      }
+    },
+    {
+      "id": "03ee",
+      "cityName": "Patna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-24T16:26:01.469Z",
+      "notes": "",
+      "position": {
+        "lat": "25.447389923791473",
+        "lng": "85.54575357421874"
       }
     }
   ]
