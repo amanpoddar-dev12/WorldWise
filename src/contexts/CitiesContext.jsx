@@ -62,7 +62,7 @@ function CitiesProvider({ children }) {
         dispatch({ type: "loading" });
         let res = await fetch(`${URL}/cities`);
         let citiesData = await res.json();
-        console.log(citiesData); // Optional: remove or replace with a proper logging solution
+        console.log(citiesData);
         // setCities(citiesData);
         dispatch({ type: "cities/loaded", payload: citiesData });
       } catch (error) {
